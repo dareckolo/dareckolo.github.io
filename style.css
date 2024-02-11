@@ -6,8 +6,7 @@ html, body {
 /* Global styles */
 body {
     font-family: 'Lexend', sans-serif;
-    background-color: #df5151;
-    text-align: center;
+    
     
 }
 
@@ -17,4 +16,6 @@ body {
     margin: 0 auto; /* Aligns the container in the center horizontally */
     padding: 20px;
     text-align: center; /* Aligns the content inside the container in the center */
+    background-color: #df5151;
+    text-align: center;
 }
