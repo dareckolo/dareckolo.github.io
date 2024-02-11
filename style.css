@@ -17,6 +17,7 @@ body {
 }
 
 .login {
+    font-family: 'Righteous', sans-serif;
     max-width: 800px;
     margin: 0 auto; /* Aligns the container in the center horizontally */
     padding: 20px;
