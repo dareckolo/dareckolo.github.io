@@ -4,15 +4,19 @@ html, body {
 }
 
 /* Global styles */
-body {
+h2 {
     font-family: 'Lexend', sans-serif;
+    margin: 0 auto; /* Aligns the container in the center horizontally */
+    padding: 20px;
+    text-align: center; /* Aligns the content inside the container in the center */
+    background-color: #df5151;
+    text-align: center;
     
     
 }
 
 .thing {
     font-family: 'Lexend', sans-serif;
-    max-width: 800px;
     margin: 0 auto; /* Aligns the container in the center horizontally */
     padding: 20px;
     text-align: center; /* Aligns the content inside the container in the center */
