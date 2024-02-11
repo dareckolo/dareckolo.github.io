@@ -10,14 +10,14 @@ html, body {
 
 /* Global styles */
 body {
-    font-family: 'Righteous', sans-serif;
+    font-family: 'Lexend', sans-serif;
     background-color: #df5151;
     text-align: center;
     
 }
 
 .login {
-    font-family: 'Righteous', sans-serif;
+    font-family: 'Lexend', sans-serif;
     max-width: 800px;
     margin: 0 auto; /* Aligns the container in the center horizontally */
     padding: 20px;
