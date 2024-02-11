@@ -1,3 +1,8 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+
+
 html, body {
     margin: 0;
     padding: 0;
@@ -5,9 +10,10 @@ html, body {
 
 /* Global styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Righteous', sans-serif;
     background-color: #df5151;
     text-align: center;
+    
 }
 
 .login {
